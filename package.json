@@ -1,0 +1,22 @@
+{
+  "name": "github-pr-view",
+  "version": "0.0.1",
+  "description": "Github PR extended view to show Approval, Request Changes as a label.",
+  "author": "Collin Bourdage",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "2.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
